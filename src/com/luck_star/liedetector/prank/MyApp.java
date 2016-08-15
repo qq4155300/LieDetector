@@ -20,5 +20,11 @@ public class MyApp extends Application {
 		tracker.enableAdvertisingIdCollection(true);
 		tracker.enableAutoActivityTracking(true);
 	}
-
+	/**
+	 * 
+	 * ceshiyixia 
+	 **/
+	private void test(){
+		// xixi 
+	}
 }
